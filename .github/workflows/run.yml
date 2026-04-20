@@ -1,4 +1,5 @@
 name: resign
+permissions: write-all
 
 on:
   workflow_dispatch:
